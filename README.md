@@ -133,35 +133,3 @@ arduino-mini-project-auto-waterring-system/
 ├── auto_watering.ino
 └── README.md
 
-Learning Outcomes
-
-Embedded web server development
-
-IoT system design
-
-State machine implementation
-
-Sensor data processing
-
-Hardware and software integration
-
-Future Improvements
-
-Cloud data logging
-
-Mobile application support
-
-MQTT or Firebase integration
-
-Multiple sensor support
-
-Weather-based watering logic
-
-Author
-
-Arduino Mini IoT Project
-Developed for learning and internship preparation
-
-License
-
-This project is developed for educational purposes.
